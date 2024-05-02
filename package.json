@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/super-duper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -178,5 +178,8 @@
   "homepage": "https://github.com/swenkerorg/super-duper/#readme",
   "bugs": {
     "url": "https://github.com/swenkerorg/super-duper/issues"
+  },
+  "dependencies": {
+    "@swenkerorg/super-duper": "^1.0.1"
   }
 }
