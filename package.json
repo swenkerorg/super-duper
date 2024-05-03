@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/super-duper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -180,6 +180,13 @@
     "url": "https://github.com/swenkerorg/super-duper/issues"
   },
   "dependencies": {
-    "@swenkerorg/super-duper": "^1.0.1"
+    "@swenkerorg/super-duper": "^1.0.1",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   }
 }
