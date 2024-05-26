@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/super-duper",
-  "version": "2.5.19",
+  "version": "2.5.20",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -180,13 +180,13 @@
     "url": "https://github.com/swenkerorg/super-duper/issues"
   },
   "dependencies": {
-    "@dramaorg/quae-dolore-nostrum": "^2.1.20",
-    "@juigorg/nisi-molestiae-ut": "^2.1.20",
-    "@kollorg/nihil-veniam-deserunt": "^1.2.20",
-    "@swenkerorg/nulla-voluptates-voluptates": "^1.2.20",
+    "@dramaorg/quae-dolore-nostrum": "^2.1.21",
+    "@juigorg/nisi-molestiae-ut": "^2.1.21",
+    "@kollorg/nihil-veniam-deserunt": "^1.2.21",
+    "@swenkerorg/nulla-voluptates-voluptates": "^1.2.21",
     "@swenkerorg/super-duper": "^1.0.1",
-    "@zitterorg/eum-veritatis-placeat": "^2.1.20",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.19",
+    "@zitterorg/eum-veritatis-placeat": "^2.1.21",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
     "analsorhost-simple-bs": "^1.0.1",
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
